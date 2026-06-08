@@ -14,7 +14,7 @@ html {
 
   /* This is what makes the background image rescale based
      on the container's size */
-  background-size: cover;
+  background-size: contain;
 
   /* Set a background color that will be displayed
      while the background image is loading */
